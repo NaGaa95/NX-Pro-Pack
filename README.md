@@ -13,7 +13,7 @@ Version : 2026-04-14
   * [JKSV](https://github.com/J-D-K/JKSV) - 12/02/2025
   * [GoldLeaf](https://github.com/xortroll/goldleaf) - 1.2.0
   * [Battery Desync Fix NX](https://github.com/CTCaer/battery_desync_fix_nx) - 1.5.1
-  * Linkalho - v2.0.2
+  * [Linkalho](https://github.com/HamletDuFromage/linkalho) - v2.0.2
   * MemToolkit NX - 2.1.1
   * Furmark NX - 0.5.0
 
@@ -27,13 +27,13 @@ Version : 2026-04-14
 
 - OVERLAYS : 
   * [Ultrahand Overlay](https://github.com/ppkantorski/Ultrahand-Overlay) - 2.3.0
+  * [sys-clk-pro](https://github.com/NaGaa95/EOS-Pro) - 2.0.2
+  * [Status Monitor Pro](https://github.com/NaGaa95/EOS-Pro) - 1.3.3
   * [FPS Locker](https://github.com/ppkantorski/FPSLocker) - 3.3.1+r1
-  * [Edizon Overlay](https://github.com/proferabg/EdiZon-Overlay/releases) - 1.0.14
-  * [sys-clk](https://github.com/ppkantorski/sys-clk) - 2.0.1+r22
-  * [Sysmodules Overlay](https://github.com/ppkantorski/ovl-sysmodules) - v1.4.8
   * [ReverseNX-RT](https://github.com/masagrator/ReverseNX-RT) - 2.2.1
+  * [Edizon Overlay](https://github.com/proferabg/EdiZon-Overlay/releases) - 1.0.14
+  * [Sysmodules Overlay](https://github.com/ppkantorski/ovl-sysmodules) - v1.4.8
   * [sys-dock](https://github.com/masagrator/sys-dock) - 1.0.2
-  * [Status Monitor Pro](https://github.com/NaGaa95/Status-Monitor-Pro) - 08/12
  
 - PAYLOADS :  
   * [Lockpick RCM Pro](https://github.com/sthetix/Lockpick_RCM_Pro) - 2.0.0
@@ -41,8 +41,12 @@ Version : 2026-04-14
 
 
 ## NX Pro - OC :
-Coming soon
 
+- [EOS-Pro](https://github.com/NaGaa95/EOS-Pro)
+
+  
+- Ultrahand Packages :
+  * EOS-Pro Toolkit 
 
 
 ## NX Pro + :
