@@ -28,7 +28,7 @@ Version : 2026-04-14
 - OVERLAYS : 
   * [Ultrahand Overlay](https://github.com/ppkantorski/Ultrahand-Overlay) - 2.3.0
   * [sys-clk-pro](https://github.com/NaGaa95/EOS-Pro) - 2.0.2
-  * [Status Monitor Pro](https://github.com/NaGaa95/EOS-Pro) - 1.3.3
+  * [Status Monitor Pro](https://github.com/NaGaa95/EOS-Pro) - 1.3.3+
   * [FPS Locker](https://github.com/ppkantorski/FPSLocker) - 3.3.1+r1
   * [ReverseNX-RT](https://github.com/masagrator/ReverseNX-RT) - 2.2.1
   * [Edizon Overlay](https://github.com/proferabg/EdiZon-Overlay/releases) - 1.0.14
@@ -42,11 +42,11 @@ Version : 2026-04-14
 
 ## NX Pro - OC :
 
-- [EOS-Pro](https://github.com/NaGaa95/EOS-Pro)
+- [EOS-Pro](https://github.com/NaGaa95/EOS-Pro) - 1.8.1
 
   
 - Ultrahand Packages :
-  * EOS-Pro Toolkit 
+  * EOS-Pro Toolkit 1.8.1
 
 
 ## NX Pro + :
