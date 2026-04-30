@@ -1,5 +1,5 @@
 # NX-Pro-Pack
-Version : 2026-04-14
+Version : 2026-04-30
 
 ## NX-Pro - Base :
 
@@ -26,27 +26,27 @@ Version : 2026-04-14
   * [nx-ovlloader](https://github.com/ppkantorski/nx-ovlloader) - v2.0.0
 
 - OVERLAYS : 
-  * [Ultrahand Overlay](https://github.com/ppkantorski/Ultrahand-Overlay) - 2.3.0
-  * [sys-clk-pro](https://github.com/NaGaa95/EOS-Pro) - 2.0.2
-  * [Status Monitor Pro](https://github.com/NaGaa95/EOS-Pro) - 1.3.3+
-  * [FPS Locker](https://github.com/ppkantorski/FPSLocker) - 3.3.1+r1
-  * [ReverseNX-RT](https://github.com/masagrator/ReverseNX-RT) - 2.2.1
+  * [Ultrahand Overlay](https://github.com/ppkantorski/Ultrahand-Overlay) - 2.4.1
+  * [sys-clk-pro](https://github.com/NaGaa95/EOS-Pro) - 2.0.4
+  * [Status Monitor Pro](https://github.com/NaGaa95/EOS-Pro) - 1.3.4
+  * [FPS Locker](https://github.com/ppkantorski/FPSLocker) - 3.3.2+r1
+  * [ReverseNX-RT](https://github.com/masagrator/ReverseNX-RT) - 2.2.1+
   * [Edizon Overlay](https://github.com/proferabg/EdiZon-Overlay/releases) - 1.0.14
-  * [Sysmodules Overlay](https://github.com/ppkantorski/ovl-sysmodules) - v1.4.8
+  * [Sysmodules Overlay](https://github.com/ppkantorski/ovl-sysmodules) - 1.5.0
   * [sys-dock](https://github.com/masagrator/sys-dock) - 1.0.2
  
 - PAYLOADS :  
   * [Lockpick RCM Pro](https://github.com/sthetix/Lockpick_RCM_Pro) - 2.0.0
-  * [TegraExplorer-EXT](https://github.com/sthetix/TegraExplorer-Ext) - v4.2.2
+  * [TegraExplorer-EXT](https://github.com/sthetix/TegraExplorer-Ext) - 4.2.2
 
 
 ## NX Pro - OC :
 
-- [EOS-Pro](https://github.com/NaGaa95/EOS-Pro) - 1.8.1
+- [EOS-Pro](https://github.com/NaGaa95/EOS-Pro) - 1.8.2
 
   
 - Ultrahand Packages :
-  * EOS-Pro Toolkit 1.8.1
+  * EOS-Pro Toolkit 1.8.2
 
 
 ## NX Pro + :
