@@ -9,8 +9,6 @@ Version : 2026-05-19
 
 - HOMEBREW : 
   * [Sphaira](https://github.com/ITotalJustice/sphaira) - 1.0.0
-  * [Tico](https://github.com/ticohq/tico) - 0.7.1
-  * [Dusk](https://github.com/givethesourceplox/dusklight-NX/releases/tag/v1.0.0.4-test) - 1.0.0.4
   * [DBI ENG](https://github.com/rashevskyv/dbi) - 874
   * [JKSV](https://github.com/J-D-K/JKSV) - 12/02/2025
   * [GoldLeaf](https://github.com/xortroll/goldleaf) - 1.2.0
@@ -58,6 +56,8 @@ Version : 2026-05-19
   * [mGBA](https://mgba.io/downloads.html) - 0.10.5
   * [MelonDS](https://github.com/Gheovgos/melonDS) - 7.2
   * [Moonlight](https://github.com/XITRIX/Moonlight-Switch) - 1.4.0
+  * [Tico](https://github.com/ticohq/tico) - 0.7.1
+  * [Dusk](https://github.com/givethesourceplox/dusklight-NX/releases/tag/v1.0.0.4-test) - 1.0.0.4
   * Chiaki - 2.2.0
   * Duckstation - 0.2
   * Flycast - 2.6
