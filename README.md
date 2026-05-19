@@ -1,5 +1,5 @@
 # NX-Pro-Pack
-Version : 2026-04-30
+Version : 2026-05-19
 
 ## NX-Pro - Base :
 
