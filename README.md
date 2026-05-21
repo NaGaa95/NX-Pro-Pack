@@ -1,5 +1,5 @@
 # NX-Pro-Pack
-Version : 2026-05-19
+Version : 2026-05-21
 
 ## NX-Pro - Base :
 
@@ -9,7 +9,7 @@ Version : 2026-05-19
 
 - HOMEBREW : 
   * [Sphaira](https://github.com/ITotalJustice/sphaira) - 1.0.0
-  * [DBI ENG](https://github.com/rashevskyv/dbi) - 874
+  * [DBI ENG](https://github.com/rashevskyv/dbi) - 895
   * [JKSV](https://github.com/J-D-K/JKSV) - 12/02/2025
   * [GoldLeaf](https://github.com/xortroll/goldleaf) - 1.2.0
   * [Battery Desync Fix NX](https://github.com/CTCaer/battery_desync_fix_nx) - 1.5.1
@@ -18,7 +18,7 @@ Version : 2026-05-19
   * [Furmark-NX](https://github.com/Anxietytimmy/Furmark-NX) - 0.6.0
 
 - SYSMODULES :
-  * [sys-clk-pro](https://github.com/retronx-team/sys-clk) - 2.0.3
+  * [sys-clk-pro](https://github.com/retronx-team/sys-clk) - 2.0.5
   * [Sys-patch](https://github.com/impeeza/sys-patch) - v1.6.2.0
   * [MissionControl](https://github.com/ndeadly/MissionControl) - 0.15.1
   * [SaltyNX](https://github.com/masagrator/SaltyNX) - 1.8.1
@@ -27,7 +27,7 @@ Version : 2026-05-19
 
 - OVERLAYS : 
   * [Ultrahand Overlay](https://github.com/ppkantorski/Ultrahand-Overlay) - 2.4.1
-  * [sys-clk-pro](https://github.com/NaGaa95/EOS-Pro) - 2.0.4
+  * [sys-clk-pro](https://github.com/NaGaa95/EOS-Pro) - 2.0.5
   * [Status Monitor Pro](https://github.com/NaGaa95/EOS-Pro) - 1.3.4
   * [FPS Locker](https://github.com/ppkantorski/FPSLocker) - 3.3.2+r1
   * [ReverseNX-RT](https://github.com/masagrator/ReverseNX-RT) - 2.2.1+
@@ -42,11 +42,12 @@ Version : 2026-05-19
 
 ## NX Pro - OC :
 
-- [EOS-Pro](https://github.com/NaGaa95/EOS-Pro) - 1.8.2
+- [EOS-Pro](https://github.com/NaGaa95/EOS-Pro) - 1.8.3
+- [NX-FanControl](https://github.com/ppkantorski/NX-FanControl) - 1.0.3+r3
 
   
 - Ultrahand Packages :
-  * EOS-Pro Toolkit 1.8.2
+  * EOS-Pro Toolkit 1.8.3
 
 
 ## NX Pro + :
@@ -57,7 +58,9 @@ Version : 2026-05-19
   * [MelonDS](https://github.com/Gheovgos/melonDS) - 7.2
   * [Moonlight](https://github.com/XITRIX/Moonlight-Switch) - 1.4.0
   * [Tico](https://github.com/ticohq/tico) - 0.7.1
-  * [Dusk](https://github.com/givethesourceplox/dusklight-NX/releases/tag/v1.0.0.4-test) - 1.0.0.4
+  * [Bully-NX](https://github.com/givethesourceplox/bully-NX) - 0.0.2
+  * [Dusk-NX](https://github.com/givethesourceplox/dusklight-NX) - 1.0.0.4
+  * [UnleashedRecomp-NX](https://github.com/givethesourceplox/UnleashedRecomp-NX) - 0.0.1
   * Chiaki - 2.2.0
   * Duckstation - 0.2
   * Flycast - 2.6
