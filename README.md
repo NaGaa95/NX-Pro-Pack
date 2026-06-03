@@ -10,7 +10,7 @@ Version : 2026-06-04
 - HOMEBREW : 
   * [Sphaira](https://github.com/ITotalJustice/sphaira) - 1.0.0
   * [DBI ENG](https://github.com/rashevskyv/dbi) - 895
-  * [JKSV](https://github.com/J-D-K/JKSV) - 12/02/
+  * [JKSV](https://github.com/J-D-K/JKSV) - 12/02/2025
   * [NXThemesInstaller](https://github.com/exelix11/SwitchThemeInjector) - 2.9
   * [GoldLeaf](https://github.com/xortroll/goldleaf) - 1.2.0
   * [Battery Desync Fix NX](https://github.com/CTCaer/battery_desync_fix_nx) - 1.5.1
