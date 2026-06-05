@@ -1,5 +1,5 @@
 # NX-Pro-Pack
-Version : 2026-06-04
+Version : 2026-06-05
 
 ## NX-Pro - Base :
 
@@ -15,7 +15,7 @@ Version : 2026-06-04
   * [GoldLeaf](https://github.com/xortroll/goldleaf) - 1.2.0
   * [Battery Desync Fix NX](https://github.com/CTCaer/battery_desync_fix_nx) - 1.5.1
   * [Linkalho](https://github.com/HamletDuFromage/linkalho) - v2.0.2
-  * MemToolkit-NX - 2.1.1
+  * [TegraBurn](https://github.com/NaGaa95/TegraBurn-NX) - 1.0.0
   * [Furmark-NX](https://github.com/Anxietytimmy/Furmark-NX) - 0.7.0
 
 - SYSMODULES :
