@@ -1,5 +1,5 @@
 # NX-Pro-Pack
-Version : 2026-06-05
+Version : 2026-06-19
 
 ## NX-Pro - Base :
 
@@ -21,7 +21,7 @@ Version : 2026-06-05
 - SYSMODULES :
   * [sys-clk-pro](https://github.com/retronx-team/sys-clk) - 2.0.5
   * [Sys-patch](https://github.com/impeeza/sys-patch) - v1.6.2.3
-  * [MissionControl](https://github.com/ndeadly/MissionControl) - 0.15.1 (Removed until FW 22.5.0 fix)
+  * [MissionControl](https://github.com/ndeadly/MissionControl) - 0.15.2
   * [SaltyNX](https://github.com/masagrator/SaltyNX) - 1.8.1
   * [sys-dock](https://github.com/masagrator/sys-dock) - 1.0.2
   * [nx-ovlloader](https://github.com/ppkantorski/nx-ovlloader) - v2.0.2
